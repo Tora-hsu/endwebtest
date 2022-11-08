@@ -1,0 +1,6 @@
+Flask
+gunicorn
+pandas
+xgboost==1.6.2
+joblib
+sklearn
